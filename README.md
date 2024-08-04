@@ -1,5 +1,5 @@
 # Responsive-pizza-website
-### Responsive Burger Website
+### Responsive Pizza Website
 
 - Responsive Pizza Website Design Using HTML CSS And JavaScript
 - Contains animations when scrolling.
